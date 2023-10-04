@@ -3,7 +3,9 @@ body {
     height: 100%;
     font-family: Roboto;
 }
-
+h1 {
+    color: #588ce0;
+}
 h2 {
     color: green;
 }
